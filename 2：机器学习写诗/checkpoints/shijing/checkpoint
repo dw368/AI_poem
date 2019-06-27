@@ -1,0 +1,5 @@
+model_checkpoint_path: "shijing-399"
+all_model_checkpoint_paths: "shijing-99"
+all_model_checkpoint_paths: "shijing-199"
+all_model_checkpoint_paths: "shijing-299"
+all_model_checkpoint_paths: "shijing-399"

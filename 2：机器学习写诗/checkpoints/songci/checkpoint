@@ -1,0 +1,3 @@
+model_checkpoint_path: "songci-1999"
+all_model_checkpoint_paths: "songci-999"
+all_model_checkpoint_paths: "songci-1999"

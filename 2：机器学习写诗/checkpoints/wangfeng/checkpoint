@@ -1,0 +1,3 @@
+model_checkpoint_path: "wangfeng-199"
+all_model_checkpoint_paths: "wangfeng-99"
+all_model_checkpoint_paths: "wangfeng-199"
